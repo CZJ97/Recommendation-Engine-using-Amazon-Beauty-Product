@@ -1,5 +1,5 @@
 # Recommendation-Engine-using-Amazon-Beauty-Product
-Recommendation Engine using Amazon Beauty Product
+
 This data set is take from https://www.kaggle.com/skillsmuggler/amazon-ratings. 
 This data set contain 4 column which are UserId, ProductId, Rating and Timestamp, and total 1048576 row in this data set.
 
